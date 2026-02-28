@@ -1,8 +1,43 @@
 {
-  "version": "1.0",
+  "version": "1.1",
   "last_updated": "2026-02-28",
-  "total_cards": 25,
+  "total_cards": 30,
   "cards": [
+    {
+      "id": "news_030",
+      "file": "bytes_news/israel-greece-cyprus-launch-maritime-cybersecurity-center.json",
+      "category": "Cybersecurity Cooperation",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_029",
+      "file": "bytes_news/pentagon-advances-ai-cyber-tools-against-china-operations.json",
+      "category": "Cyber Strategy",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_028",
+      "file": "bytes_news/threatsday-bulletin-new-emerging-cyber-threats-week.json",
+      "category": "Threat Intelligence",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_027",
+      "file": "bytes_news/china-linked-hackers-breach-telecoms-government-agencies.json",
+      "category": "Cyber Attack",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_026",
+      "file": "bytes_news/us-cybersecurity-agency-new-acting-director.json",
+      "category": "Cyber Leadership",
+      "priority": "medium",
+      "featured": false
+    },
     {
       "id": "news_025",
       "file": "bytes_news/fbi-atm-jackpotting-scams-hit-20m.json",
