@@ -1,0 +1,14 @@
+{
+    "title": "Unit 42 IR Report on Fast Exfil",
+    "category": "Threat Intelligence",
+    "context": "Palo Alto Unit 42's 2026 report on 750+ incidents shows attackers exfiltrate data in 72 minutes post-access. Identity weaknesses common; stresses rapid response needs.",
+    "image_url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1050259881001/982bd433-d615-4d81-903e-41e96cf93df0/7623c981-7ab7-4d62-9f34-a6886a054c83/1280x720/match/image.jpg",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "Palo Alto Networks",
+            "logo_url": "",
+            "news_url": "https://www.paloaltonetworks.com/resources/webcasts/2022-unit42-incident-response-report-webinar"
+        }
+    ]
+}

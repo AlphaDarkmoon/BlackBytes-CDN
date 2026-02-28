@@ -1,0 +1,14 @@
+{
+    "title": "SmarterTools Ransomware Breach Confirmed",
+    "category": "Ransomware",
+    "context": "SmarterTools confirmed Warlock ransomware gang breached their network via email system. No impact on business apps or customer data reported.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt1hus-W8fSUTY9JmjeAhJJDisIA64InIuTA&s",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "BleepingComputer",
+            "logo_url": "",
+            "news_url": "https://www.bleepingcomputer.com/tag/ransomware/"
+        }
+    ]
+}

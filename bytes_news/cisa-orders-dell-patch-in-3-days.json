@@ -1,0 +1,14 @@
+{
+    "title": "CISA Orders Dell Patch in 3 Days",
+    "category": "Vulnerability",
+    "context": "CISA mandates federal agencies patch actively exploited Dell hardcoded credential flaw within three days. Vulnerability used in espionage campaigns targeting networks.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkeq3JEnBcSGAf4OX6RLfOi0sEUhs77MYaQA&s",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "Cyber Scotland",
+            "logo_url": "",
+            "news_url": "https://www.cyberscotland.com/wp-content/uploads/2026/02/SC3-Daily-threat-bulletin-23-February-2026.pdf"
+        }
+    ]
+}

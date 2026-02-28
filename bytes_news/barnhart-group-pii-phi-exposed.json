@@ -1,0 +1,14 @@
+{
+    "title": "Barnhart Group PII PHI Exposed",
+    "category": "Data Breach",
+    "context": "Barnhart Group data breach exposes PII and PHI, affecting sensitive personal and health information.",
+    "image_url": "https://onerep.com/app/uploads/sites/2/2023/08/PHI_1.jpg",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "Data Breaches Digest",
+            "logo_url": "",
+            "news_url": "https://www.dbdigest.com/2026/02/data-breaches-digest-week-6-2026.html"
+        }
+    ]
+}

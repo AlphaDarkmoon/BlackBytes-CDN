@@ -1,0 +1,200 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-28",
+  "total_cards": 25,
+  "cards": [
+    {
+      "id": "news_025",
+      "file": "bytes_news/fbi-atm-jackpotting-scams-hit-20m.json",
+      "category": "Cyber Attack",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_024",
+      "file": "bytes_news/uat-9921-deploys-voidlink-malware.json",
+      "category": "Cyber Espionage",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_023",
+      "file": "bytes_news/cisa-adds-roundcube-to-kev-catalog.json",
+      "category": "Vulnerability",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_022",
+      "file": "bytes_news/cisa-orders-dell-patch-in-3-days.json",
+      "category": "Vulnerability",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_021",
+      "file": "bytes_news/eyecare-partners-breach-exposes-ssns.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_020",
+      "file": "bytes_news/beacon-mutual-ransomware-attack.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_019",
+      "file": "bytes_news/betterment-breach-affects-1-4m-accounts.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_018",
+      "file": "bytes_news/shinyhunters-claim-panera-data-breach.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_017",
+      "file": "bytes_news/apple-pay-phishing-targets-users.json",
+      "category": "Cyber Attack",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_016",
+      "file": "bytes_news/nimbus-manticore-cyber-espionage.json",
+      "category": "Cyber Espionage",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_015",
+      "file": "bytes_news/grimbolt-malware-hits-dell-recoverpoint.json",
+      "category": "Malware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_014",
+      "file": "bytes_news/ico-wins-dsg-retail-security-case.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_013",
+      "file": "bytes_news/barnhart-group-pii-phi-exposed.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_012",
+      "file": "bytes_news/fake-traffic-ticket-portals-scam.json",
+      "category": "Cyber Attack",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_011",
+      "file": "bytes_news/sofi-breach-impacts-38k-accounts.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_010",
+      "file": "bytes_news/bridgepay-ransomware-causes-outage.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_009",
+      "file": "bytes_news/figure-tech-breach-by-shinyhunters.json",
+      "category": "Data Breach",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_008",
+      "file": "bytes_news/recoverpoint-zero-day-exploited.json",
+      "category": "Vulnerability",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_007",
+      "file": "bytes_news/phobos-ransomware-arrest-in-poland.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_006",
+      "file": "bytes_news/beyondtrust-remote-support-exploited.json",
+      "category": "Vulnerability",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_005",
+      "file": "bytes_news/smartertools-ransomware-breach-confirmed.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_004",
+      "file": "bytes_news/adelphi-uk-ransomware-claim.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_003",
+      "file": "bytes_news/washington-hotel-ransomware-hit.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_002",
+      "file": "bytes_news/unit-42-ir-report-on-fast-exfil.json",
+      "category": "Threat Intelligence",
+      "priority": "medium",
+      "featured": false
+    },
+    {
+      "id": "news_001",
+      "file": "bytes_news/meriden-ransomware-disruption.json",
+      "category": "Ransomware",
+      "priority": "medium",
+      "featured": false
+    }
+  ],
+  "categories": [
+    "Law Enforcement",
+    "Ransomware Attack",
+    "Data Breach",
+    "Cybersecurity Product Update",
+    "Vulnerability Alert",
+    "Privacy Regulation",
+    "Government Cyber Policy",
+    "Threat Intelligence",
+    "Vulnerability",
+    "Malware",
+    "Ransomware",
+    "Cyber Espionage",
+    "Cyber Warfare",
+    "Cyber Attack",
+    "Cyber Policy"
+  ],
+  "refresh_interval_hours": 24
+}

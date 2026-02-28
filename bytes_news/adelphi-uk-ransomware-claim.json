@@ -1,0 +1,14 @@
+{
+    "title": "Adelphi UK Ransomware Claim",
+    "category": "Ransomware",
+    "context": "DragonForce ransomware group listed Adelphi UK on Feb 16, claiming breach from Feb 11 intrusion. Victim has not confirmed encryption or data theft yet.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "Bright Defense",
+            "logo_url": "",
+            "news_url": "https://www.brightdefense.com/resources/recent-data-breaches/"
+        }
+    ]
+}

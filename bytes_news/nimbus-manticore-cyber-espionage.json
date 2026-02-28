@@ -1,0 +1,14 @@
+{
+    "title": "Nimbus Manticore Cyber Espionage",
+    "category": "Cyber Espionage",
+    "context": "Nimbus Manticore launches new cyber espionage campaign, posing rising threat. Focuses on targeted intrusions with advanced persistence.",
+    "image_url": "https://research.checkpoint.com/wp-content/uploads/2025/09/image-2-1.jpg",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "Seceon",
+            "logo_url": "",
+            "news_url": "https://seceon.com/blogs-2/"
+        }
+    ]
+}

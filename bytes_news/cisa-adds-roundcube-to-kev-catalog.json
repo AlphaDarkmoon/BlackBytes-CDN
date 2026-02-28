@@ -1,0 +1,14 @@
+{
+    "title": "CISA Adds Roundcube to KEV Catalog",
+    "category": "Vulnerability",
+    "context": "CISA added Roundcube webmail vulnerabilities to Known Exploited Vulnerabilities catalog after repeated targeting. Federal agencies must patch within strict timelines to mitigate active threats.",
+    "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZCoBdP84vbBsR2RPVheevUIC6qV8Cdxsxw&s",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "Cyber Scotland",
+            "logo_url": "",
+            "news_url": "https://www.cyberscotland.com/wp-content/uploads/2026/02/SC3-Daily-threat-bulletin-23-February-2026.pdf"
+        }
+    ]
+}

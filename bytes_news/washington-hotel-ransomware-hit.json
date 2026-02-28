@@ -1,0 +1,14 @@
+{
+    "title": "Washington Hotel Ransomware Hit",
+    "category": "Ransomware",
+    "context": "Japan's Washington Hotel chain detected ransomware on internal servers Feb 13, disclosed Feb 14. They isolated networks and engaged responders to assess data exposure.",
+    "image_url": "https://www.brightdefense.com/wp-content/uploads/2026/02/Japan-Washington-Hotel-Breach--1024x579.png",
+    "read_time": 2,
+    "sources": [
+        {
+            "name": "Bright Defense",
+            "logo_url": "",
+            "news_url": "https://www.brightdefense.com/news/japan-washington-hotel-breach/"
+        }
+    ]
+}
